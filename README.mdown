@@ -1,0 +1,2 @@
+A poorly written zip file QuickLook plugin I wrote in 2007.  Committing so I don't lose it.
+
